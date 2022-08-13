@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# daniel
+.idea/
+pretrained_models/
+separate_files/
+temporary_files/
+*.mp3
+testes.py
